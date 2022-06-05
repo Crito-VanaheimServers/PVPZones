@@ -1,0 +1,2 @@
+PVPAllowedStealType = "ExileOwnerUID"; // If only owners can only steal flags in pvp change this to "ExileOwnerUID" - default: "ExileTerritoryBuildRights"
+blockArtillaryList = ["rhs_9k79","rhs_9k79_K","rhs_9k79_B"]; //List of vehicle class names that are not getting detected by pvpzone default projectile deletion

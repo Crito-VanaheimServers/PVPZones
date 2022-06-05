@@ -1,0 +1,18 @@
+class CfgFunctions
+	{
+		class PVPZones 
+		{
+			class Bootstrap 
+			{			
+				file="custom\PlayerInPVP";
+				class preInit
+				{
+					preInit = 1;
+				};
+				class postInit
+				{
+					postInit = 1;
+				};
+			};
+		};
+	};
